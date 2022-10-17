@@ -1,27 +1,21 @@
 <img src='sydneiBanner.png' alt="banner"></img>
 
-## :wave: Hi, I'm Sydnei 
-
-
-:blush: Pronouns: she/her/hers 
-
-:round_pushpin: I am from Philadelphia, PA 
-
-:computer: I am currently working on JavaScript 
+## Who Am I?
+- 👋 Hi, I’m <em>Sydnei</em> 
+- :seedling: I'm currently learning JavaScript.
+- 📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com
 
 ## Technologies
-![HTML5](https://img.shields.io/badge/HTML5-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-E31B5F?style=for-the-badge&logo=CSS3&logoColor=white) 
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=JAVASCRIPT&logoColor=white) 
-![NODE.JS](https://img.shields.io/badge/NODE.JS-68A063?style=for-the-badge&logo=NODE.JS&logoColor=white) 
-![MONGODB](https://img.shields.io/badge/MONGODB-E8E7D5?style=for-the-badge&logo=MONGODB&logoColor=white) 
-![REACT](https://img.shields.io/badge/REACT-61DBFB?style=for-the-badge&logo=REACT&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sydneicodes)](https://git.io/streak-stats) 
-
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sydneicodes&show_icons=true&locale=en&layout=compact" alt="sydneidavis" /></p> 
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sydneicodes&show_icons=true&locale=en" alt="sydneidavis" /></p> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sydneicodes&theme=solarized-light	)](https://git.io/streak-stats) 
 
 ## Get In Touch
 - Twitter: www.twitter.com/sydneicodes
@@ -34,3 +28,5 @@
 - [Mental Notes: To Do List](https://mental-notes.netlify.app/)
 - [Yoga For Anyone: Yoga Resource](https://yogaforanyone.netlify.app/)
 - [Zodiac Zone: Horoscope](https://zodiaczone.netlify.app/)
+
+Find more of my projects [here](https://sydneidev.com).
