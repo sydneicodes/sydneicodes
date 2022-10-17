@@ -1,7 +1,7 @@
 <img src='sydneiBanner.png' alt="banner"></img>
 
-## Who Am I?
-:wave: Hi, I'm Sydnei 
+## :wave: Hi, I'm Sydnei 
+
 
 :blush: Pronouns: she/her/hers 
 
