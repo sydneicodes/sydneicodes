@@ -1,8 +1,8 @@
 <img src='sydneiBanner.png' alt="banner"></img>
 
 ## Who Am I?
-- 👋 Hi, I’m <em>Sydnei</em> 
-- :seedling: I'm currently learning JavaScript.
+- 👋 Hi, I’m <em>Sydnei.</em>
+- :seedling: I'm currently working on JavaScript.
 - 📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com
 
 ## Technologies
