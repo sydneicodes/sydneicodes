@@ -2,7 +2,7 @@
 
 ## Who Am I?
 👋 Hi, I’m <em>Sydnei.</em>.   
-:seedling: I'm currently working on JavaScript.    
+:seedling: I'm currently learning Node.js.    
 :handshake: Looking to collaborate on creative and community-focused projects.  
 📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com. 
 
