@@ -4,7 +4,7 @@
 👋 Hi, I’m <em>Sydnei.</em>.   
 :seedling: I'm currently learning Back-End Development.    
 :handshake: Looking to collaborate on creative and community-focused projects.  
-📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com.  
+📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com.    
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
