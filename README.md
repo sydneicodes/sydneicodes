@@ -1,7 +1,7 @@
 <img src='sydneiBanner.png' alt="banner"></img>
 
 ## Who Am I?
-👋 Hi, I’m <em>Sydnei.</em>.   
+👋 Hi, I’m <em>Sydnei.</em>  
 :seedling: I'm currently learning Back-End Development.    
 :handshake: Looking to collaborate on creative and community-focused projects.  
 📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com.    
