@@ -30,4 +30,4 @@
 - [Yoga For Anyone: Yoga Resource](https://yogaforanyone.netlify.app/)
 - [Zodiac Zone: Horoscope](https://zodiaczone.netlify.app/)
 
-Find more of my projects [here](https://www.sydneidev.com).
+Find more of my projects [here](https://www.sydneidev.com)
