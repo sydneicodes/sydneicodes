@@ -20,7 +20,7 @@
 
 ## Get In Touch
 - Twitter: www.twitter.com/sydneicodes
-- Portfolio: www.sydneidev.com
+- Portfolio: www.sydneidev.netlify.app
 - Email me: sydnei.dev@gmail.com
 - LinkedIn: www.linkedin.com/in/sydnei-davis
 ## Projects
