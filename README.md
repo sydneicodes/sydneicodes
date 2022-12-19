@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sydneicodes&theme=solarized-light	)](https://git.io/streak-stats) 
 
-## Get In Touch
+## Get In Touch With Me
 - Twitter: www.twitter.com/sydneicodes
 - Portfolio: www.sydneidev.com
 - Email me: sydnei.dev@gmail.com
