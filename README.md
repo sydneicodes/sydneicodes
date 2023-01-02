@@ -2,7 +2,7 @@
 
 ## Who Am I?
 👋 Hi, I’m <em>Sydnei.</em>  
-:seedling: I'm currently learning Back-End Development.    
+:seedling: I'm currently learning React.    
 :handshake: Looking to collaborate on creative and community-focused projects.  
 📫 <strong>How to reach me:</strong> Email me: sydnei.dev@gmail.com.    
 
